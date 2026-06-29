@@ -10,8 +10,8 @@ Write up on how a skill install is able to run malicious commands which the AI a
 
 ## Evidence
 
-* [Demo video 1 — Codex installs and runs the vulnerable skill](./assets/codex-skill-install-demo.mov)
-* [Demo video 2 — SkillSpector returns LOW / SAFE on the updated repo](./assets/skillspector-safe-scan-demo.mov)
+* [Demo video 1 — Codex installs and runs the vulnerable skill](./codex-skill-install-demo.mov)
+* [Demo video 2 — SkillSpector returns LOW / SAFE on the updated repo](./skillspector-safe-scan-demo.mov)
 
 ## Attack Flow
 
